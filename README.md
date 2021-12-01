@@ -11,18 +11,6 @@
 
 ---
 
-<!-- credits for gif https://gph.is/g/ZWg5jr7 -->
-<img align="right" height="auto" width="210" src="https://imadtoubal.github.io/img/toubal-logo.png">
-
-- 🔭 **I’m currently working on:** ML models
-- 🌱 **I’m currently learning:** data engineering
-- 👯 **I’m looking to collaborate on:** data science projects/competitions
-- 💬 **Ask me about:** data science, memes, kdramas, Bad Bunny
-- ⚡ **Hobbies:** books, internet, music, series, pet my cat
-- 😄 **Pronouns:** he/him
-
----
-
 <a href="https://dewith.co/" >
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=dewith&show_icons=true&hide_title=true&hide_border=true&theme=graywhite" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewith&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite" />
