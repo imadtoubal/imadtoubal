@@ -7,7 +7,7 @@
    <a href="mailto:imad.toubal@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-imad.toubal@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dewithmiramon@gmail.com"></a>
 </p>
 
-<h3 align="left">  I am a Ph.D student interested in deep learning for vision applications. </h3>
+<h3 align="left">  I am a Ph.D candidate interested in deep learning for vision applications. </h3>
 
 ---
 
